@@ -8,7 +8,7 @@
 export function GitHubLink() {
   return (
     <a
-      href="https://github.com/divyanshkhurana06/swarm"
+      href="https://github.com/yash-8923/swarm"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="View the source on GitHub"

@@ -6,10 +6,10 @@ A requester pastes what they need labelled and signs once. The task goes on-chai
 
 
 
-- **Live app:** **https://swarm-rouge-one.vercel.app**
-- **Demo** 
-- **Post a task:** https://swarm-rouge-one.vercel.app/post
-- **Projector dashboard:** https://swarm-rouge-one.vercel.app/dashboard
+- **Live app:** **https://swarm-rouge-on.vercel.app/**
+- **Demo** **https://youtu.be/9c0hg9D2RJ0**
+- **Post a task:** https://swarm-rouge-on.vercel.app/post
+- **Projector dashboard:** https://swarm-rouge-on.vercel.app/dashboard
 - **TaskPool (Monad Testnet):** [`0x74F2b1C5eCb400c31596dC5CA993f909F083A6d0`](https://testnet.monadvision.com/address/0x74F2b1C5eCb400c31596dC5CA993f909F083A6d0) — verified
 - **DemoUSD (Monad Testnet):** [`0x5E47E70679811F5720338237066e3e57D71a449C`](https://testnet.monadvision.com/address/0x5E47E70679811F5720338237066e3e57D71a449C) — verified
 - **WorkReceipt NFT (Monad Testnet):** [`0xE2cBB61a976294a31756D0483e00dDbDf6A041c0`](https://testnet.monadvision.com/address/0xE2cBB61a976294a31756D0483e00dDbDf6A041c0) — verified
@@ -21,8 +21,8 @@ A requester pastes what they need labelled and signs once. The task goes on-chai
 
 | Claim | Where to check |
 |---|---|
-| Public repo | https://github.com/your-username/swarm |
-| Live, publicly hosted | https://swarm-rouge-one.vercel.app |
+| Public repo | https://github.com/yash-8923/swarm |
+| Live, publicly hosted | https://swarm-rouge-on.vercel.app/ |
 | Contracts on Monad Testnet | [TaskPool `0x74F2…A6d0`](https://testnet.monadvision.com/address/0x74F2b1C5eCb400c31596dC5CA993f909F083A6d0) |
 | Source verified on the explorer | All three contracts, via Sourcify — open any address above |
 | Anyone can run it unaided | [Run it yourself](#run-it-yourself): clone, `forge test --odyssey`, `npm run dev` |
@@ -178,7 +178,7 @@ web/
 - A funded Monad Testnet key — get MON from [faucet.monad.xyz](https://faucet.monad.xyz)
 
 ```bash
-git clone --recurse-submodules https://github.com/divyanshkhurana06/swarm.git
+git clone --recurse-submodules https://github.com/yash-8923/swarm
 cd swarm
 ```
 
